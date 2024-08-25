@@ -1,12 +1,12 @@
 const buttons = document.querySelectorAll('.button')
-const body = document.querySelector(body)
+const body = document.querySelector('body')
 
 buttons.forEach(function (button) {
     console.log(button);
     button.addEventListener('click', function(nit) {
         console.log(nit);
         console.log(nit.target);
-        if (nit.target.id === 'saffron') {
+        if (nit.target.id === 'yellow') {
         body.style.backgroundColor = nit.target.id 
         }
         if (nit.target.id === 'white') {
