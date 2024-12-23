@@ -1,6 +1,6 @@
 <template>
-    <section id="about" class="bg-gray-50 py-16">
-      <div class="max-w-6xl mx-auto px-4">
+    <section id="about" class="w-full bg-white">
+      <div class="container w-full mx-auto py-16">
         <h3 class="text-3xl font-bold text-gray-800 mb-8">About Me</h3>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div>

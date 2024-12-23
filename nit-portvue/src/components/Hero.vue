@@ -1,6 +1,6 @@
 <template>
-    <section class="bg-white">
-      <div class="max-w-6xl mx-auto px-4 py-16">
+<section class="w-full bg-white">
+  <div class="container w-full mx-auto py-16">
         <div class="text-center">
           <h1 class="text-5xl font-bold text-blue-500 mb-4">Nitin Vashisht</h1>
           <h2 class="text-4xl font-bold text-gray-800 mb-4">Professional Portfolio</h2>

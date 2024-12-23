@@ -1,6 +1,7 @@
 
 <template>
-  <div class="min-h-screen bg-red-500">
+  <div class="min-h-screen w-screen bg-gray-100"> <!-- Changed to w-screen -->
+    <div class="w-full px-4 md:px-8"></div>
     <Hero />
     <AboutSection />
     <ExperienceSection />

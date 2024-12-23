@@ -1,6 +1,6 @@
 <template>
-    <section id="experience" class="bg-white py-16">
-      <div class="max-w-6xl mx-auto px-4">
+   <section id="experience" class="w-full bg-white">
+    <div class="container w-full mx-auto py-16">
         <h3 class="text-3xl font-bold text-gray-800 mb-8">Experience</h3>
         <div class="space-y-8">
           <div v-for="job in experience" :key="job.title" class="bg-gray-50 p-6 rounded-lg">
