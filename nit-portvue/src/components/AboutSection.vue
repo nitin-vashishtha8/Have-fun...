@@ -1,5 +1,5 @@
 <template>
-    <section id="about" class="w-full bg-white">
+    <section id="about" class="w-full bg-gray-100">
       <div class="container w-full mx-auto py-16">
         <h3 class="text-3xl font-bold text-gray-800 mb-8">About Me</h3>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
